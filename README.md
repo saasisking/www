@@ -1,6 +1,6 @@
 # SaaS is King [www.saasisking.com](https://www.saasisking.com/)
 
-![logo](https://logo.saasisking.com/1/cover.png)
+![logo](https://logo.saasisking.com/1/default.png)
 
 
 
