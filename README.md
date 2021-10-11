@@ -1,4 +1,4 @@
-# [www.saasisking.com](https://www.saasisking.com/)
+# [SaaS is King.com](https://www.saasisking.com/)
 
 ![logo](https://logo.saasisking.com/1/default.png)
 
