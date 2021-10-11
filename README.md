@@ -2,12 +2,12 @@
 
 ![logo](https://logo.saasisking.com/1/default.png)
 
-## Cel akcji:
+## Cel akcji #SaaSisKing
 
 Promowanie usług i usługodawców wykorzystujących rozwiązania SaaS.
 
 
-
+## 
 
 
 ## Contacting Us
