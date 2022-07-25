@@ -2,10 +2,15 @@
 
 ![logo](https://logo.saasisking.com/1/cover.png)
 
-## Cel akcji #SaaSisKing
+#SaaSisKing
 
-Promowanie usług i usługodawców wykorzystujących rozwiązania SaaS.
+## Goal
 
+Our goal is to harmonize services and service providers.
+
+## Solution
+
+A SaaS service for Software houses for creating any SaaS for their customers.
 
 ## Another
 
