@@ -17,10 +17,12 @@ odpowiedzi będą częścią artykułu n/t promocji producentów SaaS
 
 
 ## Automatyzacja i Produktyzacja
+(na końcu strony są definicje)
 
 Co dla Was znaczą pojęcia produktyzacja usług i automatyzacja?
 + Przykłady (produktyzacji i automatyzacji) w Waszym biznesie?
 + Co chcielibyście zautomatyzować dziś ale jest bardzo trudne/kosztowne?
++ Jaki kwestie związane z człowiekiem utrudniają automatyzację i produktyzację?
 
 
 ## SaaS
