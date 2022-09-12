@@ -1,4 +1,4 @@
-# [?] Pytania
+# [?] Pytania do biznesu - producentów SaaS
 
 Poniżej pytania odnośnie biznesu,
 odpowiedzi będą częścią artykułu promującego polskich dostawców SaaS
@@ -50,6 +50,34 @@ przetłumaczone na kilka języków na stronie https://www.saasisking.com/
 
 + Na czym się skupiacie i co chcecie osiągnąć za kilka lat?
 + Jakie procesy zamierzacie zautomatyzować a jakich nie przez kolejne 3 lata?
+
+
+
+# [?] Pytania do klientów SaaS
+
+## Usługi
+
++ z jakich usługodawców korzystasz od lat
++ jakie usługi są deficytowe?
++ jakie są za drogie?
++ Jakie parametry usług są istotne?
+
+
+## Usługi przyszłości
+
++ Na jakie usługi jeszcze czekasz?
++ Jakie są jeszcze za niskiej jakości z powodu technologii
+
+
+## Provider
+
++ jakiego providera cenisz i za co?
++ Jak często szukasz nowego dostawcę?
++ Z jakiego powodu zmieniasz dostawcę?
++ Z jakiego powodu nie zmienisz?
++ Co jest ważne dla długotrwałej współpracy?
+
+
 
 
 
