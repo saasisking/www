@@ -2,7 +2,7 @@
 
 Poniżej pytania odnośnie biznesu,
 odpowiedzi będą częścią artykułu promującego polskich dostawców SaaS
-przetłumaczone na kilka jezykóœ na stronie https://www.saasisking.com/
+przetłumaczone na kilka języków na stronie https://www.saasisking.com/
 
 
 ## Biznes
