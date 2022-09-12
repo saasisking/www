@@ -7,25 +7,48 @@ odpowiedzi będą częścią artykułu n/t promocji producentów SaaS
 ## Biznes
 
 + Jak rozpoczął się biznes w ogóle i jak w tej aktualnej dziedzinie?
-+ Czym jest dla mnie SaaS?
++ Największe problemy w rozwoju biznesu rok temu i dziś?
+
+
+## Rynek
+
 + Dlaczego wybraliście ten segment rynku?
++ Czy będziecie poszerzać funkcjonalności i rynek, czy raczej specjalizować w kolejnych 3 latach?
+
+
+## Automatyzacja i Produktyzacja
+
+Co dla Was znaczą pojęcia produktyzacja usług i automatyzacja?
++ Przykłady (produktyzacji i automatyzacji) w Waszym biznesie?
++ Co chcielibyście zautomatyzować dziś ale jest bardzo trudne/kosztowne?
+
 
 ## SaaS
 
-Co dla mnie znaczy:
-+ Produktyzacja usług?
-+ Automatyzacja?
-
-+ Przykłady w Twioim biznesie: Produktyzacji i automatyzacji?
-
++ Czym jest dla Was SaaS, czy tak określacie czy macie inne nazwę?
 + jakie problemy można napotkać przy tworzeniu SaaS?
 + Jakie problemy wydawały się dużym wyzwaniem a w konsekwencji były niewielkim problemem?
 
 
+## Wasi Partnerzy SaaS?
+
++ z jakich usług korzystacie? prosze podać 3 przykłady nazw usług, może być od jednego dostawcy.
++ przykłady firm, które dostarczają wam wartościowe rozwiazania i dlaczego?
+
+
+## Wasza Konkurencja SaaS?
+
++ Czego można się nauczyć od konkurencji?
++ Czy istnieje w waszym segmencie rynku?
++ Czym się różni?
+
+
 ## Przyszłość
 
-+ Największe problemy w rozwoju bzinesu rok temu i dziś?
 + Na czym się skupiacie i co chcecie osiągnąć za kilka lat?
++ Jakie procesy zamierzacie zautomatyzować a jakich nie przez kolejne 3 lata?
+
+
 
 
 # [i] Definicje
