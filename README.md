@@ -12,6 +12,12 @@ Our goal is to harmonize services and service providers.
 
 A SaaS service for Software houses for creating any SaaS for their customers.
 
+## Start-up's & VC
+
+
++ [SaaS 1000 2020 - SaaS Mag](https://www.saasmag.com/saas-1000-2020/)
+
+
 ## Another
 
 + [Future of SaaS - Community & Resource Center](https://futureofsaas.io/)
