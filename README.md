@@ -18,6 +18,15 @@ A SaaS service for Software houses for creating any SaaS for their customers.
 + [SaaS 1000 2020 - SaaS Mag](https://www.saasmag.com/saas-1000-2020/)
 
 
+# links
+
+
++ [Polish B2B SaaS Landscape 2023 - bit.ly/polishb2bsaasmap](https://form.typeform.com/to/UutzJlbt)
++ [Innovation Nest - innovationnest.com](https://innovationnest.com/)
+
+
+
+
 ## Another
 
 + [Future of SaaS - Community & Resource Center](https://futureofsaas.io/)
