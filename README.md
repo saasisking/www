@@ -2,22 +2,6 @@
 
 ![logo](https://logo.saasisking.com/1/cover.png)
 
-#SaaSisKing
-
-## Goal
-
-Our goal is to harmonize services and service providers.
-
-## Solution
-
-A SaaS service for Software houses for creating any SaaS for their customers.
-
-## Start-up's & VC
-
-
-+ [SaaS 1000 2020 - SaaS Mag](https://www.saasmag.com/saas-1000-2020/)
-
-
 # Services-Centric Solutions - [**SaaS is King** - service-based business](http://www.saasisking.com)
 
 
@@ -214,12 +198,39 @@ Development. Text To Service
 
 
 
+## Start-up's & VC
+
+
++ [SaaS 1000 2020 - SaaS Mag](https://www.saasmag.com/saas-1000-2020/)
+
 
 # links
 
 
 + [Polish B2B SaaS Landscape 2023 - bit.ly/polishb2bsaasmap](https://form.typeform.com/to/UutzJlbt)
 + [Innovation Nest - innovationnest.com](https://innovationnest.com/)
+
+
+
+
+## Keywords
+
++ SaaSisKing
+
+
+## Goal
+
+Our goal is to harmonize services and service providers.
+
+
+## Solution
+
+A SaaS service for Software houses for creating any SaaS for their customers.
+
+
+
+
+
 
 
 
