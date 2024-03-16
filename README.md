@@ -33,7 +33,19 @@ Service = Working Software = Infra + Code
   + Social media
   + newsletter
   + Advertising online courses
- 
+
+## Identity
+
+"Automate and Dominate" might have a slightly more appealing edge for the following reasons:
+
+**Action-oriented:** It starts with an actionable verb, "Automate," which could be seen as more motivating, prompting immediate action or consideration. It's straightforward and directive, which can be highly appealing in a business context where action and results are valued.
+
+**Clarity and Rhythm:** The phrase has a clear and rhythmic flow, making it memorable and impactful. The balance between "Automate" and "Dominate" also visually and phonetically complements each other well, which can aid in brand recall.
+
+**Positive Connotation:** Both words have strong positive connotations. "Automate" suggests efficiency, modernization, and simplicity, while "Dominate" suggests success, leadership, and strength. This combination can be very aspirational.
+
+
+
     
 + [**One Person SaaS** - Personalized Services in Minutes](http://www.onepersonsaas.com)
   + Marketplace of SaaS
