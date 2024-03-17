@@ -30,14 +30,16 @@ Service = Working Software = Infra + Code
 
 
 
-+ [**SaaS is King** - service-based business](http://www.saasisking.com)
+## [**SaaS is King** - automate & dominate](http://www.saasisking.com)
+
   + How to start SaaS
   + Blog
   + Social media
   + newsletter
   + Advertising online courses
 
-## Identity
+
+### Identity
 
 "Automate and Dominate" might have a slightly more appealing edge for the following reasons:
 
@@ -50,7 +52,7 @@ Service = Working Software = Infra + Code
 
 
     
-+ [**One Person SaaS** - Personalized Services in Minutes](http://www.onepersonsaas.com)
++ [**One Person SaaS** - Your Digital Twin](http://www.onepersonsaas.com)
   + Marketplace of SaaS
   + Personalized FaaS Marketplace based on dynapsys
 
@@ -209,13 +211,13 @@ devops
 
 Development. Text To Service
 
-+ blog: onepersonsaas.com - One Person SaaS - Automate Yourself
-+ SaaS: saasisking.com - SaaS is King - Unattended Sales      
++ blog: onepersonsaas.com - One Person SaaS - Automate Yourself, Your Digital Twin
++ SaaS: saasisking.com - SaaS is King -      
   + oneday.run 
     + dialogware.com - dialog ware - Text To Software
       + dialogSync.com - dialog sync -  
-        + webstream.com - web stream - Application Streaming  
-          + jloads 
+        + webstream.com - web stream - Frontend and Backedn Application Streaming  , nanofrontend
+          
 
    
 
@@ -226,6 +228,7 @@ Development. Text To Service
 
 
 + [SaaS 1000 2020 - SaaS Mag](https://www.saasmag.com/saas-1000-2020/)
+
 
 
 # links
@@ -374,6 +377,10 @@ The motto "automate and dominate" complements the assertive brand name by emphas
 
 In conclusion, while "SaaS is King" and "automate and dominate" convey a strong, positive, and ambitious message, the key to leveraging this message successfully lies in ensuring that it aligns with the brand’s identity, values, and the quality of its offerings. Customer engagement and feedback are crucial to refine this message and make sure it resounds well with the target market, building both trust and a positive vibe around the brand.
 
++ leadership
++ saasisking
++ automate
++ dominate
 
 
 ---
